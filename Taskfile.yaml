@@ -1,0 +1,1 @@
+protoc -I proto proto/sso/sso.proto --go_out=./gen/go --go_opt=paths=source_relative --plugin=$HOME/go/bin/protoc-gen-go-grpc --go_grpc_out=./gen/go --go_grpc_opt=paths=source_relative
