@@ -1,4 +1,4 @@
-module protos
+module github.com/Psigfry/protos
 
 go 1.23.3
 
