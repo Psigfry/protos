@@ -4,7 +4,7 @@
 // - protoc             v5.28.3
 // source: sso/sso.proto
 
-package psigfry_sso_v1
+package ssov1
 
 import (
 	context "context"
